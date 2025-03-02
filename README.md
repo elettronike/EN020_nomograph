@@ -1,6 +1,8 @@
-# Reactance Nomograph
+# Engineering Nomogrms
 
+## Reactance Nomograph
 
+## Smith Chart
 
 
 ## References
@@ -13,5 +15,5 @@
 
 ### V1.0
 
-First release of the chart in svg, png, pdf formats.
+First release of the Reactance chart in svg, png, pdf formats.
 The dimensions are intended to fit A4 paper.
